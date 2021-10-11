@@ -1,0 +1,11 @@
+<!--SLIDER-->
+<app-slider [nombre]="'Busqueda: '+ search" [size]="'small'"></app-slider>
+
+<div class="center">
+    <section id="content">
+        <h1 class=subheader>ARTÍCULOS ENCONTRADOS</h1>
+        <app-articles [articles]="articles"></app-articles>
+    </section>
+    <!--SIDEBAR-->
+    <app-sidebar></app-sidebar>
+</div>
