@@ -1,6 +1,19 @@
-# AprendiendoAngular
+# Aprendiendo-angular
+This repository is based on a Udemy Course about frameworks like angular, react, vue: https://www.udemy.com/course/master-en-frameworks-javascript-aprende-angular-react-vue-js/
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.9.
+
+Here you can see the project "aprendiendo-angular" --> Frontend - Articles web page - Angular
+
+## About the repository
+This is a repositiory based on a course --> Master en Frameworks JavaScript: Aprende Angular, React, Vue
+
+## URL of the course
+https://www.linkedin.com/learning/javascript-avanzado-expresiones-regulares
+
+## Certificate
+...In progress
+
 
 ## Development server
 
@@ -13,15 +26,3 @@ Run `ng generate component component-name` to generate a new component. You can 
 ## Build
 
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
